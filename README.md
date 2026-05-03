@@ -15,6 +15,7 @@ Software engineer with solid experience in backend development, specializing in 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="images/python.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="images/scala.svg" width="36" height="36" alt="Scala" /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="images/go.svg" width="36" height="36" alt="Scala" /></a>
 </p>
 
 <h3 align="center">Frontend Development</h3>
